@@ -1,5 +1,3 @@
-// Write a C program to perform Matrix Addition
-
 #include<stdio.h>
 int main(){
     int r,c,i,j;
