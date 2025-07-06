@@ -1,5 +1,3 @@
-// Write a C program to search a number using Binary Search method
-
 #include<stdio.h>
 int main(){
     int i,n,num,low,mid,high,found=0;
