@@ -1,5 +1,3 @@
-// Write a C program to find Odd or Even number from a given set of numbers
-
 #include<stdio.h>
 int main(){
     int arr[100],n,i;
