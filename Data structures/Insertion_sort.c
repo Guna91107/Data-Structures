@@ -23,7 +23,6 @@ int main() {
         arr[j + 1] = key;
     }
 
-    // Output sorted array
     printf("Sorted array:\n");
     for (i = 0; i < n; i++) {
         printf("%d ", arr[i]);
