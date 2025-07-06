@@ -1,5 +1,3 @@
-//  Write a C program to find Factorial of a given number without using Recursion
-
 #include<stdio.h>
 int main(){
     int n,factorial=1,i;
