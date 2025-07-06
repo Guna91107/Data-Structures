@@ -1,5 +1,3 @@
-//Write a C program to search a number using Linear Search method
-
 #include<stdio.h>
 int main(){
     int n,i,num,is_found=1;
