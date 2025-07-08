@@ -25,7 +25,6 @@ int main() {
             hash = key % size;
             pos = hash;
 
-            // Linear probing
             while (table[pos] != -1) {
                 pos = (pos + 1) % size;
                 if (pos == hash) {
