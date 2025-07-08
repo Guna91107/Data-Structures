@@ -56,7 +56,7 @@ int main() {
                 j++;
             }
             if (top != -1 && stack[top] == '(') {
-                pop(); // remove '('
+                pop();
             }
         }
         else {
